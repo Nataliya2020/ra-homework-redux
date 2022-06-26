@@ -1,0 +1,126 @@
+* {
+  box-sizing: border-box;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  clip: rect(1px, 1px, 1px, 1px);
+}
+
+.name-field {
+  display: block;
+  margin-right: 5px;
+}
+
+.field {
+  padding: 5px 10px;
+}
+
+.form-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  width: 350px;
+
+  text-align: center;
+}
+
+.form-row-button {
+  justify-content: flex-end;
+}
+
+.form {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  padding-bottom: 10px;
+  width: 577px;
+  margin-right: auto;
+  margin-left: auto;
+
+  border: 1px solid #333333
+}
+
+.content-container {
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.list {
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.list-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  padding: 5px;
+
+  border-bottom: 1px solid black;
+}
+
+.service-name, .service-price, .service-btn {
+  width: 159px;
+}
+
+.service-price, .service-btn {
+  text-align: center;
+}
+
+.container-item {
+  margin-left: auto;
+  margin-right: auto;
+  width: 340px;
+  padding: 10px;
+
+  border: 1px solid #333333;
+}
+
+.btn {
+  width: 25px;
+  height: 22px;
+  padding: 0;
+
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+.img-edit {
+  width: 50%;
+  object-fit: cover;
+}
+
+.button-container {
+  display: flex;
+}
+
+.btn-control {
+  margin-right: 5px;
+}
+
+.btn-control:last-child {
+  margin-right: 0;
+}
+
+.container-services {
+  width: 65%;
+}
+
+.container-actions {
+  width: 35%;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.filter-field {
+  margin-bottom: 5px;
+}
