@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-homework-redux/static/css/main.336ec0b7.css",
+    "main.js": "/ra-homework-redux/static/js/main.adffce05.js",
+    "static/js/787.d05dcded.chunk.js": "/ra-homework-redux/static/js/787.d05dcded.chunk.js",
+    "index.html": "/ra-homework-redux/index.html",
+    "main.336ec0b7.css.map": "/ra-homework-redux/static/css/main.336ec0b7.css.map",
+    "main.adffce05.js.map": "/ra-homework-redux/static/js/main.adffce05.js.map",
+    "787.d05dcded.chunk.js.map": "/ra-homework-redux/static/js/787.d05dcded.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.336ec0b7.css",
+    "static/js/main.adffce05.js"
+  ]
+}
